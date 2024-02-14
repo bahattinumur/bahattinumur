@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 Hello, I'm Bahattin, a Software Developer. <br>
-I have extensive experience in software development. <br>
+• I have extensive experience in software development. <br>
 Passionate about frontend development, I'm always eager to learn new things. <br>
 Skilled in creating modern and impressive websites using HTML, CSS, and JavaScript. <br>
 Capable of building powerful and engaging web applications with React.js. <br>
