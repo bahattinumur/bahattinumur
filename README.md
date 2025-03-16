@@ -5,13 +5,14 @@
 Hello, I'm Bahattin, a Software Developer. <br>
 • I have extensive experience in software development. <br>
 • Passionate about frontend development, I'm always eager to learn new things. <br>
-• Skilled in creating modern and impressive websites using HTML, CSS, and JavaScript. <br>
+• Proficient in JavaScript and TypeScript, ensuring robust, maintainable, and scalable codebases. <br>
 • Capable of building powerful and engaging web applications with React.js. <br>
 • Focused on enhancing user experience through responsive design and UI/UX principles. <br>
 • As a full-stack developer, experienced in backend development with Node.js. <br>
 • Expert in database operations, server-side logic, and RESTful APIs. <br>
 • Experienced in developing mobile applications with React Native. <br>
 • Able to create user-friendly applications that work perfectly on mobile devices. <br>
+• Strong foundation in software architecture, design patterns, and clean code principles. <br>
 • Offering effective solutions for both web and mobile platforms, I contribute to every stage of projects, developing innovative, multi-platform applications. <br>
 • Proficient in foundational concepts of Python, C#, and C++, adding versatility to my skill set and allowing me to contribute effectively in various programming environments.
 # 💻 Tech Stack:
